@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.justify-content{
+    justify-content: space-between;
+}
+.align-items{
+    align-items: center;
+}
+.color{
+    color: white;
+}
+.margin{
+    margin: 10px;
+}
+.font-family{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bg-color{
+    background-color: rgb(66, 240, 249);
+}
+.fstyle{
+    font-style: normal;
+}
